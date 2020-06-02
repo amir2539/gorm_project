@@ -1,7 +1,7 @@
 # gorm_project
 An example for golang REST api with **gorm** and **gin** htpp framework.
 
-this demo uses `mysql` . make you haveit installed.
+this demo uses `mysql` . make sure you have it installed.
 
 configure port and databe in .env file
 
